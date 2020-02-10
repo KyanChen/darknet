@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pictures</folder>
+	<filename>default_gzclient_camera(1)-2020-02-10T00_38_17.645512.jpg</filename>
+	<path>/home/peter/NewDisk/kaikeba_drone/pictures/default_gzclient_camera(1)-2020-02-10T00_38_17.645512.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1011</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>224</ymin>
+			<xmax>539</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>street light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>18</ymin>
+			<xmax>495</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

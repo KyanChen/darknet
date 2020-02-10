@@ -1,0 +1,62 @@
+<annotation>
+	<folder>pictures</folder>
+	<filename>default_gzclient_camera(1)-2020-02-10T00_27_00.938041.jpg</filename>
+	<path>/home/peter/NewDisk/kaikeba_drone/pictures/default_gzclient_camera(1)-2020-02-10T00_27_00.938041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1011</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>street light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>65</ymin>
+			<xmax>131</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>street light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>67</ymin>
+			<xmax>418</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>street light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>717</xmin>
+			<ymin>63</ymin>
+			<xmax>747</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>street light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>763</xmin>
+			<ymin>51</ymin>
+			<xmax>788</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

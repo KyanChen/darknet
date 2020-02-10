@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pictures</folder>
+	<filename>default_gzclient_camera(1)-2020-02-10T00_35_22.072754.jpg</filename>
+	<path>/home/peter/NewDisk/kaikeba_drone/pictures/default_gzclient_camera(1)-2020-02-10T00_35_22.072754.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1011</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>street sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>93</ymin>
+			<xmax>659</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire hydrant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>778</xmin>
+			<ymin>314</ymin>
+			<xmax>851</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>245</ymin>
+			<xmax>543</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
